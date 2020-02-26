@@ -9,3 +9,4 @@ Saiba mais em [willianjusten.com.br](http://willianjusten.com.br)
 Gostou do curso? Quer mais, até um café é válido =)
 
 teste: enviando mudanças para um repositório remoto
+teste 2: usando o git stash
